@@ -2,9 +2,7 @@
 
 I'm Igor (pronounced *Ee-gor*), a curiosity-driven researcher passionate about the intersection of science and software development. Over the past 10 years in academia, I've worked on computational biology research, developed scientific software, and taught at both schools and universities.
 
-> “We are all here on earth to help others: what on earth the others are here for, I don't know.”
-> 
-> ― W.H. Auden
+> “Life is like a backflip. If you think too much, you land on your back.”
 
 # 🚀 What I Do
 
@@ -27,5 +25,5 @@ I've had the opportunity to work in interdisciplinary teams where I've contribut
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/IgorsDubanevics)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/igorscientist)
 
----
-The README design "stolen" from @lauragrassig
+
+[^1]: The README design was stolen from @lauragrassig
